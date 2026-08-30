@@ -42,26 +42,6 @@ npm start
 yarn start
 ```
 
-The project will be available at the local address provided by the development server.
-
-### Build the project
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-### Run linting
-
-To check the project code for linting errors:
-
-```bash
-npm run lint
-```
-
-## Features
-
 ### Features
 
 * **Responsive Design:** Optimized for different screen sizes and devices (breakpoints at 320px, 744px, and 1260px).
