@@ -4,7 +4,7 @@ MyBiKE is a responsive bicycle catalog website that presents a selection of bike
 
 ## Live Preview
 
-[Live Demo](https://nyarachun.github.io/Landing-page-MyBiKE/)
+Experience the live website: [My BiKE store Demo](https://nyarachun.github.io/Landing-page-MyBiKE/)
 
 ## Design Reference
 
@@ -49,4 +49,4 @@ yarn start
 * **CSS-Only Burger Menu:** Implemented an interactive mobile navigation menu using the CSS `:target` pseudo-class and `:has()` selector, without relying on JavaScript.
 * **Sticky Glass Header:** A fixed navigation bar with a glass-morphism effect (`backdrop-filter`) for a modern look.
 * **Reveal Footer Effect:** The footer is fixed to the bottom of the viewport, creating a smooth reveal effect as the user scrolls to the end of the page.
-* **Art Direction (Responsive Images):** Used the `<picture>` tag to serve appropriately sized and cropped images based on the user's screen width.
+* **Responsive Images:** Used the `<picture>` tag to serve appropriately sized and cropped images based on the user's screen width.
